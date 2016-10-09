@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorreiosUI", "CorreiosUI\CorreiosUI.csproj", "{9D95F7B8-329C-4434-9822-15CC4244C0F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorreiosDominio", "CorreiosDominio\CorreiosDominio.csproj", "{69C5A95D-1E6C-4156-91E3-96826495D286}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorreiosService", "CorreiosService\CorreiosService.csproj", "{5EAC0FAA-95B0-49CA-9F60-9CBFBB0AA905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorreiosWebApi", "CorreiosWebApi\CorreiosWebApi.csproj", "{6AF7B947-AACA-492D-A23C-A8B10941EAE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D95F7B8-329C-4434-9822-15CC4244C0F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D95F7B8-329C-4434-9822-15CC4244C0F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D95F7B8-329C-4434-9822-15CC4244C0F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D95F7B8-329C-4434-9822-15CC4244C0F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C5A95D-1E6C-4156-91E3-96826495D286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C5A95D-1E6C-4156-91E3-96826495D286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C5A95D-1E6C-4156-91E3-96826495D286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C5A95D-1E6C-4156-91E3-96826495D286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EAC0FAA-95B0-49CA-9F60-9CBFBB0AA905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EAC0FAA-95B0-49CA-9F60-9CBFBB0AA905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EAC0FAA-95B0-49CA-9F60-9CBFBB0AA905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EAC0FAA-95B0-49CA-9F60-9CBFBB0AA905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF7B947-AACA-492D-A23C-A8B10941EAE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF7B947-AACA-492D-A23C-A8B10941EAE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF7B947-AACA-492D-A23C-A8B10941EAE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF7B947-AACA-492D-A23C-A8B10941EAE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://matheus-martino.visualstudio.com/
+		SccProjectUniqueName0 = CorreiosDominio\\CorreiosDominio.csproj
+		SccProjectName0 = CorreiosDominio
+		SccAuxPath0 = https://matheus-martino.visualstudio.com
+		SccLocalPath0 = CorreiosDominio
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName1 = CorreiosService\\CorreiosService.csproj
+		SccProjectName1 = CorreiosService
+		SccAuxPath1 = https://matheus-martino.visualstudio.com
+		SccLocalPath1 = CorreiosService
+		SccProvider1 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName2 = CorreiosWebApi\\CorreiosWebApi.csproj
+		SccProjectName2 = CorreiosWebApi
+		SccAuxPath2 = https://matheus-martino.visualstudio.com
+		SccLocalPath2 = CorreiosWebApi
+		SccProvider2 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName3 = CorreiosUI\\CorreiosUI.csproj
+		SccProjectName3 = CorreiosUI
+		SccAuxPath3 = https://matheus-martino.visualstudio.com
+		SccLocalPath3 = CorreiosUI
+		SccProvider3 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosBusiness.Tests\bin\Debug\CorreiosBusiness.Tests.dll
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosBusiness.Tests\bin\Debug\CorreiosBusiness.Tests.pdb
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosBusiness.Tests\bin\Debug\CorreiosBusiness.dll
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosBusiness.Tests\bin\Debug\Microsoft.Pex.Framework.dll
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosBusiness.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosBusiness.Tests\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosBusiness.Tests\bin\Debug\Microsoft.ExtendedReflection.dll
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosBusiness.Tests\bin\Debug\CorreiosBusiness.pdb
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosBusiness.Tests\bin\Debug\Microsoft.Pex.Framework.xml
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosBusiness.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosBusiness.Tests\obj\Debug\CorreiosBusiness.Tests.csprojResolveAssemblyReference.cache
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosBusiness.Tests\obj\Debug\CorreiosBusiness.Tests.dll
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosBusiness.Tests\obj\Debug\CorreiosBusiness.Tests.pdb

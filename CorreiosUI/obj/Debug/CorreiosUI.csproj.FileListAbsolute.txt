@@ -1,0 +1,13 @@
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosUI\bin\Debug\CorreiosUI.exe.config
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosUI\bin\Debug\CorreiosUI.exe
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosUI\bin\Debug\CorreiosUI.pdb
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosUI\obj\Debug\CorreiosUI.exe
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosUI\obj\Debug\CorreiosUI.pdb
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosUI\bin\Debug\CorreiosService.dll
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosUI\bin\Debug\CorreiosService.pdb
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosUI\obj\Debug\CorreiosUI.csprojResolveAssemblyReference.cache
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosUI\bin\Debug\CorreiosDominio.dll
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosUI\bin\Debug\CorreiosDominio.pdb
+C:\Users\mathe\Source\Repos\Correios\CorreiosUI\bin\Debug\CorreiosUI.exe.config
+C:\Users\mathe\Source\Repos\Correios\CorreiosUI\obj\Debug\CorreiosUI.exe
+C:\Users\mathe\Source\Repos\Correios\CorreiosUI\obj\Debug\CorreiosUI.pdb

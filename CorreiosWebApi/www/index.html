@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html ng-app="cepFacilBr">
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://bootswatch.com/superhero/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.css">        
+    <link rel="stylesheet" href="content/css/style.css"/>
+</head>
+<body>
+    <div ng-view></div>
+    <!--<script src="js/map.js"></script>-->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjhI7Wp6USmbd7pulJjL2XK0dkKO79izw"></script>  
+    <script src="libs/node_modules/angular/angular.min.js"></script>        
+    <script src="libs/node_modules/angular-route/angular-route.min.js"></script>
+
+    <!--App / Modulo-->
+    <script src="app/app.js"></script>
+    <script src="app/config.js"></script>
+    <script src="app/route.js"></script>  
+    
+    
+    <!-- Controllers  -->
+    <script src="app/controller/homeCtrl.js"></script>
+    <script src="app/controller/jsonCtrl.js"></script>
+</body>
+</html>

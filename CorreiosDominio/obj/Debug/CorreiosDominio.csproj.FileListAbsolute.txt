@@ -1,0 +1,5 @@
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosDominio\bin\Debug\CorreiosDominio.dll
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosDominio\bin\Debug\CorreiosDominio.pdb
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosDominio\obj\Debug\CorreiosDominio.dll
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosDominio\obj\Debug\CorreiosDominio.pdb
+C:\Users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosDominio\obj\Debug\CorreiosDominio.csprojResolveAssemblyReference.cache

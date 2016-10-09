@@ -1,0 +1,8 @@
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosService\bin\Debug\CorreiosService.dll.config
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosService\bin\Debug\CorreiosService.dll
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosService\bin\Debug\CorreiosService.pdb
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosService\obj\Debug\CorreiosService.csprojResolveAssemblyReference.cache
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosService\obj\Debug\CorreiosService.dll
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosService\obj\Debug\CorreiosService.pdb
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosService\bin\Debug\CorreiosDominio.dll
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosService\bin\Debug\CorreiosDominio.pdb

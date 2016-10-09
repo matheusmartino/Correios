@@ -1,0 +1,5 @@
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosBusiness\bin\Debug\CorreiosBusiness.dll
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosBusiness\bin\Debug\CorreiosBusiness.pdb
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosBusiness\obj\Debug\CorreiosBusiness.csprojResolveAssemblyReference.cache
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosBusiness\obj\Debug\CorreiosBusiness.dll
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosBusiness\obj\Debug\CorreiosBusiness.pdb

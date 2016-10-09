@@ -1,0 +1,1 @@
+c:\users\mathe\documents\visual studio 2015\Projects\Correios\CorreiosWebService\obj\Debug\CorreiosWebService.csprojResolveAssemblyReference.cache
