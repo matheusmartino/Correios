@@ -25,7 +25,6 @@ namespace CorreiosWebApi.Controller
 
                 Cep ceps = new Cep
                 {
-
                     ceps = resposta.cep,
                     end = resposta.end,
                     complemento = resposta.complemento,
